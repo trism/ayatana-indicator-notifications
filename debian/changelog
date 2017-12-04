@@ -1,9 +1,14 @@
-ayatana-indicator-notifications (0.4.0-0) UNRELEASED; urgency=medium
+ayatana-indicator-notifications (0.4.0-0~ppa~bionic) bionic; urgency=medium
 
+  [ Mike Gabriel ]
   * Convert to Ayatana Indicators. Obtained from:
     https://code.launchpad.net/~jconti/recent-notifications/indicator
 
- -- Mike Gabriel <mike.gabriel@das-netzwerkteam.de>  Sat, 02 Dec 2017 18:51:33 +0100
+  [ Jason Conti ]
+  * New upstream release.
+    - Test build using new ayatana indicator api
+
+ -- Jason Conti <jason.conti@gmail.com>  Mon, 04 Dec 2017 15:33:37 -0500
 
 indicator-notifications (0.3.3-0~ppa~trusty) trusty; urgency=medium
 
